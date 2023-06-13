@@ -1,0 +1,96 @@
+body {
+    direction: rtl;
+}
+
+
+body h4{
+    
+    color: rgb(0, 0, 129);
+}
+
+body p {
+    color: rgb(114, 114, 114);
+}
+
+
+.logo{
+    margin: auto;
+
+
+}
+.logo img{
+    padding-left: 60px;
+    height: 100px;
+}
+
+.slide {
+    text-align: center;
+}
+
+
+.slide img{
+    text-align: center;
+    width: 100%;
+    
+}
+
+
+.navbar ul li   {
+    font-size: 16px;
+    padding: 20px;
+    
+}
+
+.about  {
+    margin: auto;
+    padding: 30px;
+
+}
+
+.about p {
+    font-size: 14px;
+    text-align: justify;
+    text-align: right;
+
+}
+
+.about img {
+    width: 100%;
+    opacity: 0.5;
+}
+
+.sections {
+    padding: 60px;
+
+}
+
+.services {
+    padding: 60px;
+}
+
+.services i {
+    color: rgb(0, 0, 129);
+    font-size: 40px;
+}
+
+.title  {
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.title h1 {
+    font-size: 25px;
+}
+
+
+.teachers img {
+    width: 100%;
+    
+}
+
+
+.teachers img:hover {
+    width: 100%;
+    opacity: 0.5;
+}
